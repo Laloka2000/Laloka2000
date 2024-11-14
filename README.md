@@ -30,3 +30,6 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 - ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 - ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 - ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+
+### Operating Systems
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
