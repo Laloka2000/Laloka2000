@@ -1,14 +1,10 @@
 ## Hello, my name is László Lelovics
 
-I would like to indroduce myselft in a few sentences. I graduated from John von Neumann University as a Software developer in February 2024 and since then i started working 
-as a web developer. 
-Now i mainly specialize in frontend development and webdesign. I plan to continue my studies as a Computer Science Engineer with a bachelor's degree level. 
-I plan to expand my portfolio with Backend development and mobile application development.
+I would like to introduce myself in a few sentences. I graduated from John von Neumann University as a software developer in February 2024, and since then, I have been working as a web developer. Currently, I specialize primarily in frontend development and web design. I plan to continue my studies to earn a bachelor’s degree in Computer Science Engineering. Additionally, I aim to expand my portfolio with backend and mobile application development.
 
+In my free time, I enjoy expanding my knowledge and learning in-demand technologies through online courses, mainly from Udemy and Coursera. I am also interested in areas of digital marketing, such as SEO and PPC.
 
-In my free time, I like to grow my knowledge and gaining more in demand technologies through online courses mostly from Udemy and Coursera. I am also interested in the fields parts of digital marketing such as SEO and PPC.
-
-I love my profession, and with my knowledge, I enjoy building websites that are modern, responsive, and user-friendly.
+I love my profession, and with my skills, I enjoy building websites that are modern, responsive, and user-friendly.
 
 
 ## 💻 Technical Skills
