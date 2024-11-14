@@ -25,3 +25,8 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 ### Digital Marketing Tools
 - ![Ubersuggest](https://img.shields.io/badge/-Ubersuggest-ED2224?style=flat&logo=ubersuggest&logoColor=white)
 - ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
+
+### Productivity & Collaboration Tools
+- ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+- ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+- ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
