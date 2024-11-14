@@ -21,3 +21,7 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 
 ### Tools & Platforms
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Digital Marketing Tools
+- ![Ubersuggest](https://img.shields.io/badge/-Ubersuggest-ED2224?style=flat&logo=ubersuggest&logoColor=white)
+- ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
