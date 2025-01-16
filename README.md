@@ -1,6 +1,6 @@
 ## Hello, my name is László Lelovics
 
-I would like to introduce myself in a few sentences. I graduated from John von Neumann University as a software developer in February 2024, and since then, I have been working as a web developer. Currently, I specialize primarily in frontend development and web design. I plan to continue my studies to earn a bachelor’s degree in Computer Science Engineering. Additionally, I aim to expand my portfolio with backend and mobile application development.
+I would like to introduce myself in a few sentences. I graduated from John von Neumann University as a software developer in February 2024, and since then, I have been working as a web developer. Currently, I specialize primarily in frontend development and web design. I plan to continue my studies to earn a bachelor’s degree in Software Information Technology. Additionally, I aim to expand my portfolio with backend and mobile application development.
 
 In my free time, I enjoy expanding my knowledge and learning in-demand technologies through online courses, mainly from Udemy and Coursera. I am also interested in areas of digital marketing, such as SEO and PPC.
 
@@ -15,6 +15,7 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Content Management Systems
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
@@ -25,6 +26,8 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 ### Digital Marketing Tools
 - ![Ubersuggest](https://img.shields.io/badge/-Ubersuggest-ED2224?style=flat&logo=ubersuggest&logoColor=white)
 - ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
+- ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=flat&logo=google-search-console&logoColor=white)
+- ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 ### Productivity & Collaboration Tools
 - ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
