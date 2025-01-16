@@ -19,9 +19,11 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 
 ### Content Management Systems
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+- ![Unas](https://img.shields.io/badge/-Unas-FF6600?style=flat&logo=unas&logoColor=white)
 
 ### Tools & Platforms
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### Digital Marketing Tools
 - ![Ubersuggest](https://img.shields.io/badge/-Ubersuggest-ED2224?style=flat&logo=ubersuggest&logoColor=white)
