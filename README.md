@@ -2,7 +2,7 @@
 
 I would like to introduce myself in a few sentences. I graduated from John von Neumann University as a software developer in February 2024, and since then, I have been working as a web developer. Currently, I specialize primarily in frontend development and web design. I plan to continue my studies to earn a bachelor’s degree in Software Information Technology. Additionally, I aim to expand my portfolio with backend and mobile application development.
 
-In my free time, I enjoy expanding my knowledge and learning in-demand technologies through online courses, mainly from Udemy and Coursera. I am also interested in areas of digital marketing, such as SEO and PPC.
+In my free time, I enjoy expanding my knowledge and learning in-demand technologies through online courses, mainly from Udemy and Coursera. I am also interested in Digital marketing.
 
 I love my profession, and with my skills, I enjoy building websites that are modern, responsive, and user-friendly.
 
@@ -24,10 +24,6 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 ### Tools & Platforms
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-### Digital Marketing Tools
-- ![Ubersuggest](https://img.shields.io/badge/-Ubersuggest-ED2224?style=flat&logo=ubersuggest&logoColor=white)
-- ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
 - ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=flat&logo=google-search-console&logoColor=white)
 - ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
