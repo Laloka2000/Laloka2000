@@ -24,11 +24,8 @@ I love my profession, and with my skills, I enjoy building websites that are mod
 ### Tools & Platforms
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-- ![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=flat&logo=google-search-console&logoColor=white)
-- ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 ### Productivity & Collaboration Tools
-- ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 - ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 - ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
