@@ -2,9 +2,7 @@
 
 I would like to introduce myself in a few sentences. I graduated from John von Neumann University as a software developer in February 2024, and since then, I have been working as a web developer. Currently, I specialize primarily in frontend development and web design. I plan to continue my studies to earn a bachelor’s degree in Software Information Technology. Additionally, I aim to expand my portfolio with backend and mobile application development.
 
-In my free time, I enjoy expanding my knowledge and learning in-demand technologies through online courses, mainly from Udemy and Coursera. I am also interested in Digital marketing.
-
-I love my profession, and with my skills, I enjoy building websites that are modern, responsive, and user-friendly.
+In my free time, I enjoy expanding my knowledge and learning in-demand technologies. I love my profession, and with my skills, I enjoy building websites that are modern, responsive, and user-friendly.
 
 
 ## 💻 Technical Skills
