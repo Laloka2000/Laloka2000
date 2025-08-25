@@ -31,3 +31,13 @@
 </div>
 
 ###
+
+<h2 align="left">Connect with me: </h2>
+
+### 
+
+<div align="left">
+  <img src="https://www.linkedin.com/in/l%C3%A1szl%C3%B3-lelovics-987046274/" height="40" alt="My Linkedln" />
+  <img src="https://app.daily.dev/lszllelovics" height="40" alt="Daily Dev" />
+</div>
+
