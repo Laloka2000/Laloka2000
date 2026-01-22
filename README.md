@@ -38,7 +38,6 @@
 <!-- STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laloka2000&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=999" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laloka2000&theme=transparent&hide_border=true&currStreakLabel=4F46E5&fire=4F46E5&ring=4F46E5&sideNums=999&sideLabels=999" height="150" />
 </div>
 
 <br>
