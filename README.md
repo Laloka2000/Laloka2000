@@ -11,6 +11,8 @@
 <p align="center">
   Currently working with <b>JavaScript, Python</b>
   <br>
+  Always learning news stuff and developing my skills
+  <br>
   Based in <b>Hungary</b> 🇭🇺 • <i>"I have more VSCode extensions than I should. 😅"</i>
 </p>
 
