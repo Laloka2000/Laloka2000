@@ -35,15 +35,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<br>
-
-<!-- STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laloka2000&show_icons=true&theme=transparent&hide_border=true&title_color=4F46E5&icon_color=4F46E5&text_color=999" height="150" />
-</div>
-
-<br>
-
 <!-- CONTACT -->
 <div align="center">
   <a href="https://github.com/Laloka2000">
