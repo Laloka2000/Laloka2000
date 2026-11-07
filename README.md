@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/l%C3%A1szl%C3%B3-lelovics-987046274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lelovicslaszlo10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR.EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Laloka2000&style=for-the-badge&color=2d8f6f&label=PROFILE+VIEWS" />
 </p>
 
@@ -48,22 +48,38 @@ const laci = {
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/Laloka2000/laszlo-lelovics-new-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laloka2000&repo=laszlo-lelovics-new-portfolio&bg_color=0d1117&title_color=3fb68b&icon_color=3fb68b&text_color=c9d1d9&hide_border=true" />
-  </a>
-  <a href="https://github.com/Laloka2000/tech-stock-watcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laloka2000&repo=tech-stock-watcher&bg_color=0d1117&title_color=3fb68b&icon_color=3fb68b&text_color=c9d1d9&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/Laloka2000/tech-stock-watcher">TechPulse</a></h3>
+      <p>Real-time tech stock watchlist &amp; portfolio tracker, installable as a PWA. Live quotes, candlestick charts, sparklines and company fundamentals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+      </p>
+      <a href="https://tech-stock-watcher.vercel.app">🔗 Live demo</a> · <a href="https://github.com/Laloka2000/tech-stock-watcher">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍🎨 <a href="https://github.com/Laloka2000/laszlo-lelovics-new-portfolio">Portfolio</a></h3>
+      <p>My personal portfolio site — who I am, what I build, and how to reach me.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <a href="https://github.com/Laloka2000/laszlo-lelovics-new-portfolio">💻 Code</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Laloka2000&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=3fb68b&icon_color=3fb68b&text_color=c9d1d9&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laloka2000&layout=compact&langs_count=6&bg_color=0d1117&title_color=3fb68b&text_color=c9d1d9&hide_border=true" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
